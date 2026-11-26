@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/MavenTest/pom.xml" />
         <option value="$PROJECT_DIR$/Springboot-Test/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot-Test2/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot-Test3/pom.xml" />
       </list>
     </option>
   </component>
